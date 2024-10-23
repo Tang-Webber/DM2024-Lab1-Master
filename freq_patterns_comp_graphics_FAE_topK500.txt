@@ -1,0 +1,500 @@
+words:9 
+26:9 
+needs:9 
+done:8 
+displaying:8 
+recently:8 
+rumours:8 
+whether:8 
+always:8 
+looks:8 
+long:8 
+didn:7 
+company:7 
+couple:7 
+times:7 
+pointers:7 
+appreciate:7 
+33:7 
+cheap:7 
+helps:7 
+within:7 
+parallel:7 
+structure:7 
+manual:7 
+believe:7 
+haven:7 
+utility:6 
+human:6 
+mapping:6 
+interesting:6 
+mind:6 
+game:6 
+life:6 
+depth:6 
+certainly:6 
+goes:6 
+man:6 
+page:6 
+takes:6 
+won:6 
+graphic:6 
+knows:6 
+came:6 
+pl8:6 
+references:6 
+services:6 
+tom:6 
+44:6 
+fractal:6 
+client:6 
+exactly:6 
+short:6 
+keep:6 
+future:6 
+international:6 
+motion:6 
+hard:6 
+particular:6 
+open:6 
+apr:6 
+specific:6 
+add:6 
+easily:6 
+tried:6 
+31:6 
+correct:5 
+curve:5 
+math:5 
+whole:5 
+64:5 
+ago:5 
+took:5 
+spot:5 
+compact:5 
+qt:5 
+showing:5 
+dave:5 
+wondering:5 
+bottom:5 
+deal:5 
+everyone:5 
+1993apr19:5 
+acm:5 
+39:5 
+defined:5 
+designed:5 
+load:5 
+nova:5 
+options:5 
+philosophical:5 
+significance:5 
+sort:5 
+trouble:5 
+everything:5 
+suggestions:5 
+geometric:5 
+graphical:5 
+thought:5 
+whose:5 
+location:5 
+simon:5 
+living:5 
+room:5 
+van:5 
+386:5 
+computers:5 
+movie:5 
+brian:5 
+bug:5 
+pascal:5 
+simply:5 
+twice:5 
+price:5 
+starting:5 
+checked:5 
+loss:5 
+seattle:5 
+solution:5 
+fairly:5 
+york:5 
+anyway:5 
+capabilities:5 
+expect:5 
+labs:5 
+mentioned:5 
+provided:5 
+dr:5 
+major:5 
+sound:5 
+determine:5 
+150:5 
+35:5 
+61:5 
+originator:5 
+5000:5 
+define:5 
+47:5 
+resulting:5 
+129:5 
+april:5 
+light:5 
+description:5 
+enjoy:5 
+later:5 
+cannot:5 
+due:5 
+isn:5 
+move:5 
+published:5 
+show:5 
+cause:5 
+names:5 
+design:5 
+basic:5 
+gmt:5 
+numbers:5 
+libraries:5 
+nz:5 
+supposedly:5 
+claim:5 
+asked:5 
+comments:5 
+comparison:5 
+happy:5 
+1992:5 
+stored:5 
+plain:5 
+worth:5 
+philosophical	significance:5 
+unit:4 
+28:4 
+along:4 
+bezier:4 
+inside:4 
+rectangular:4 
+sciences:4 
+smaller:4 
+certain:4 
+eng:4 
+levels:4 
+friend:4 
+gray:4 
+plus:4 
+although:4 
+vr:4 
+against:4 
+cambridge:4 
+centris:4 
+clock:4 
+dithering:4 
+mips:4 
+movies:4 
+processor:4 
+saying:4 
+service:4 
+talking:4 
+across:4 
+cpu:4 
+fashion:4 
+ohio:4 
+professional:4 
+ideas:4 
+months:4 
+34:4 
+serious:4 
+allen:4 
+amount:4 
+fact:4 
+fair:4 
+job:4 
+poor:4 
+worse:4 
+bytes:4 
+galki:4 
+makes:4 
+toppoint:4 
+ulrich:4 
+cross:4 
+curves:4 
+disclaimer:4 
+poster:4 
+views:4 
+vnet:4 
+thanx:4 
+vector:4 
+grasp:4 
+seem:4 
+texture:4 
+put:4 
+486:4 
+bugs:4 
+core:4 
+england:4 
+modules:4 
+nothing:4 
+street:4 
+west:4 
+companies:4 
+effect:4 
+bitnet:4 
+edward:4 
+geometry:4 
+trivial:4 
+38:4 
+advantage:4 
+care:4 
+down:4 
+gives:4 
+cso:4 
+joseph:4 
+smith:4 
+until:4 
+section:4 
+started:4 
+fractals:4 
+title:4 
+created:4 
+comes:4 
+gifs:4 
+guess:4 
+switch:4 
+wasn:4 
+hand:4 
+laboratory:4 
+quick:4 
+australian:4 
+looked:4 
+storage:4 
+generated:4 
+calculations:4 
+easier:4 
+leave:4 
+creates:4 
+transform:4 
+turn:4 
+apply:4 
+digitize:4 
+excellent:4 
+mouse:4 
+notice:4 
+sets:4 
+ways:4 
+drive:4 
+saw:4 
+situation:4 
+201:4 
+adobe:4 
+completely:4 
+contain:4 
+early:4 
+mean:4 
+nearly:4 
+once:4 
+overkill:4 
+papers:4 
+piece:4 
+says:4 
+voice:4 
+clipping:4 
+date:4 
+dimensional:4 
+explain:4 
+netters:4 
+offer:4 
+perspective:4 
+recommend:4 
+scaling:4 
+single:4 
+appears:4 
+away:4 
+centre:4 
+complex:4 
+highly:4 
+shape:4 
+viewpoint:4 
+29:4 
+generate:4 
+western:4 
+six:4 
+almost:4 
+misc:4 
+otherwise:4 
+taking:4 
+matrix:4 
+modeling:4 
+ram:4 
+allow:4 
+avoid:4 
+basically:4 
+developing:4 
+explained:4 
+extension:4 
+functionality:4 
+generic:4 
+respond:4 
+separate:4 
+types:4 
+wants:4 
+65:4 
+four:4 
+regular:4 
+often:4 
+reserve:4 
+surfaces:4 
+capture:4 
+store:4 
+workstation:4 
+devices:4 
+welcome:4 
+implementation:4 
+products:4 
+require:4 
+personally:4 
+51:4 
+vision:4 
+literature:4 
+port:4 
+wa:4 
+low:4 
+pages:4 
+him:4 
+visual:4 
+286:4 
+models:4 
+40:4 
+areas:4 
+telling:4 
+directly:4 
+top:4 
+needs	looks:4 
+needs	open:4 
+needs	happy:4 
+needs	drive:4 
+believe	done	isn:4 
+done	believe:4 
+done	isn:4 
+rumours	motion:4 
+rumours	centris:4 
+always	looks:4 
+always	mind:4 
+always	room:4 
+looks	short:4 
+looks	down:4 
+long	believe:4 
+long	page:4 
+long	fractal:4 
+long	april:4 
+long	published:4 
+long	numbers:4 
+couple	open:4 
+couple	cambridge:4 
+cheap	client:4 
+core	cheap	modules:4 
+cheap	core:4 
+cheap	modules:4 
+within	mind:4 
+within	short:4 
+structure	australian:4 
+structure	storage:4 
+believe	haven:4 
+believe	isn:4 
+believe	asked:4 
+believe	port:4 
+mapping	44:4 
+mapping	texture:4 
+open	mind	situation:4 
+mind	open:4 
+mind	situation:4 
+takes	designed:4 
+takes	options:4 
+toppoint	galki	suggestions	significance	philosophical	came	ulrich:4 
+galki	suggestions	significance	philosophical	came	toppoint:4 
+galki	suggestions	significance	philosophical	came	ulrich:4 
+suggestions	significance	philosophical	came	galki:4 
+toppoint	suggestions	significance	philosophical	came	ulrich:4 
+suggestions	significance	philosophical	came	toppoint:4 
+suggestions	significance	philosophical	came	ulrich:4 
+significance	philosophical	came	suggestions:4 
+toppoint	galki	significance	philosophical	came	ulrich:4 
+galki	significance	philosophical	came	toppoint:4 
+galki	significance	philosophical	came	ulrich:4 
+significance	philosophical	came	galki:4 
+toppoint	significance	philosophical	came	ulrich:4 
+significance	philosophical	came	toppoint:4 
+significance	philosophical	came	ulrich:4 
+philosophical	came	significance:4 
+toppoint	galki	suggestions	philosophical	came	ulrich:4 
+galki	suggestions	philosophical	came	toppoint:4 
+galki	suggestions	philosophical	came	ulrich:4 
+suggestions	philosophical	came	galki:4 
+toppoint	suggestions	philosophical	came	ulrich:4 
+suggestions	philosophical	came	toppoint:4 
+suggestions	philosophical	came	ulrich:4 
+philosophical	came	suggestions:4 
+toppoint	galki	philosophical	came	ulrich:4 
+galki	philosophical	came	toppoint:4 
+galki	philosophical	came	ulrich:4 
+philosophical	came	galki:4 
+toppoint	philosophical	came	ulrich:4 
+philosophical	came	toppoint:4 
+philosophical	came	ulrich:4 
+came	philosophical:4 
+toppoint	galki	suggestions	significance	came	ulrich:4 
+galki	suggestions	significance	came	toppoint:4 
+galki	suggestions	significance	came	ulrich:4 
+suggestions	significance	came	galki:4 
+toppoint	suggestions	significance	came	ulrich:4 
+suggestions	significance	came	toppoint:4 
+suggestions	significance	came	ulrich:4 
+significance	came	suggestions:4 
+toppoint	galki	significance	came	ulrich:4 
+galki	significance	came	toppoint:4 
+galki	significance	came	ulrich:4 
+significance	came	galki:4 
+toppoint	significance	came	ulrich:4 
+significance	came	toppoint:4 
+significance	came	ulrich:4 
+came	significance:4 
+toppoint	galki	suggestions	came	ulrich:4 
+galki	suggestions	came	toppoint:4 
+galki	suggestions	came	ulrich:4 
+suggestions	came	galki:4 
+toppoint	suggestions	came	ulrich:4 
+suggestions	came	toppoint:4 
+suggestions	came	ulrich:4 
+came	suggestions:4 
+toppoint	galki	came	ulrich:4 
+galki	came	toppoint:4 
+galki	came	ulrich:4 
+came	galki:4 
+toppoint	came	ulrich:4 
+came	toppoint:4 
+came	ulrich:4 
+44	stored:4 
+open	situation:4 
+specific	easily:4 
+specific	names:4 
+specific	misc:4 
+easily	add	avoid:4 
+add	easily:4 
+add	avoid:4 
+easily	designed:4 
+easily	avoid:4 
+easily	respond:4 
+tried	vision:4 
+curve	bezier:4 
+nova	allen:4 
+toppoint	galki	suggestions	significance	philosophical	ulrich:4 
+galki	suggestions	significance	philosophical	toppoint:4 
+galki	suggestions	significance	philosophical	ulrich:4 
+suggestions	significance	philosophical	galki:4 
+toppoint	suggestions	significance	philosophical	ulrich:4 
+suggestions	significance	philosophical	toppoint:4 
+suggestions	significance	philosophical	ulrich:4 
+significance	philosophical	suggestions:4 
+toppoint	galki	significance	philosophical	ulrich:4 
+galki	significance	philosophical	toppoint:4 
+galki	significance	philosophical	ulrich:4 
+significance	philosophical	galki:4 
+toppoint	significance	philosophical	ulrich:4 

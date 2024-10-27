@@ -609,8 +609,8 @@ european:11
 helped:11
 offer:11
 personality:11
-personality	alt:9
 personality	international:9
+personality	alt:9
 personality	510:9
 personality	510	international:9
 practitioner:11
@@ -8572,6 +8572,8 @@ table:12
 risks:12
 steroid:12
 eau:12
+eau	wisconsin:11
+claire	eau	wisconsin:11
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -8600,8 +8602,6 @@ eau	wishes	patently:11
 claire	eau	wishes	patently:11
 absurd	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
-eau	wisconsin:11
-claire	eau	wisconsin:11
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10
@@ -9152,8 +9152,8 @@ fever:13
 chips:13
 chips	guest:9
 chocolate:13
-chocolate	action:9
 chocolate	guest:9
+chocolate	action:9
 chocolate	chips:9
 chocolate	chips	guest:9
 benefit:13
@@ -9170,6 +9170,7 @@ letter:13
 meal:13
 al:13
 claire:13
+claire	wisconsin:11
 claire	absurd:11
 claire	absurd	wisconsin:10
 claire	patently:11
@@ -9184,7 +9185,6 @@ absurd	patently	claire	wishes	wisconsin:10
 claire	wishes	absurd:11
 claire	wishes	patently:11
 absurd	claire	wishes	patently:11
-claire	wisconsin:11
 beginning:13
 iv:13
 quacks:13

@@ -3317,12 +3317,12 @@ ignorance:18
 1993apr15:18
 require:18
 healta:18
-healta	gmt:10
-healta	gmt	college:9
 healta	date:10
 healta	date	gmt:9
 college	healta	date	gmt:9
 healta	date	college:10
+healta	gmt:10
+healta	gmt	college:9
 healta	college:12
 healy:18
 healy	gmt:10
@@ -3438,8 +3438,8 @@ dwyer:21
 dwyer	2000:10
 theist:21
 entire:21
-entire	dan:9
 entire	wasn:9
+entire	dan:9
 earlier:21
 dan:21
 lie:21
